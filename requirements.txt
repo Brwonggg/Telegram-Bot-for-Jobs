@@ -1,0 +1,7 @@
+pyTelegramBotAPI>=4.37.0
+openai>=3.28.0
+requests>=2.31.0
+APScheduler>=3.11,<4
+python-dotenv>=1.0.0
+pytest>=8.0
+tzdata
